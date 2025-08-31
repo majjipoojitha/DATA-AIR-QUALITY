@@ -1,0 +1,134 @@
+﻿Age Group:,Gender:,Employment Status,How would you rate the overall air quality in your area?,"Over the past 5 years, has the air quality in your area?",Do you think the government is doing enough to improve air quality?,Have you experienced any of the following health symptoms due to air pollution? (Select all that apply),Do you believe the air quality affects your ability to work or study?,Have you visited a doctor or health professional due to air quality-related health issues?,Are you aware of the Air Quality Index (AQI) and its implications?,Do you take any precautions when air quality is poor? (Select all that apply),Would you support stricter government regulations to reduce air pollution?,Do you avoid outdoor activities during periods of poor air quality?,How often do you check the air quality before going outside?,"In your opinion, what is the main cause of air pollution?"
+18-30,Male,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation",Yes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Sometimes,Often,Industrial pollution
+18-30,Male,Student,1,Worsened,No,Coughing,Yes,No,Yes,Wear a mask,Yes,Yes,Rarely,Industrial pollution
+18-30,Male,Student,1,Worsened,No,"Coughing, Eye irritation",No,No,Yes,Wear a mask,Yes,Yes,Rarely,Vehicle emissions
+18-30,Male,Employed,5,Worsened,Not Sure,Asthma or respiratory issues,No,Yes,Yes,Wear a mask,Not Sure,Yes,Always,Industrial pollution
+18-30,Male,Student,3,Worsened,No,"Coughing, Eye irritation",Yes,Yes,Yes,"Wear a mask, Use air purifiers at home, Avoid outdoor activities",Yes,Yes,Often,Vehicle emissions
+18-30,Male,Student,4,Worsened,No,"Coughing, Shortness of breath, Eye irritation",Yes,Yes,Yes,"Wear a mask, Use air purifiers at home, Stay indoors, Avoid outdoor activities",Yes,Yes,Often,Industrial pollution
+18-30,Male,Student,2,Worsened,Sometimes,"Coughing, Eye irritation",No,No,Yes,Wear a mask,No,Sometimes,Never,Industrial pollution
+18-30,Male,Student,5,Remained the Same,Not Sure,Fatigue,No,No,Yes,Avoid outdoor activities,No,No,Sometimes,Construction activities
+18-30,Male,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Asthma or respiratory issues",Yes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",No,Yes,Often,All Above
+18-30,Male,Student,2,Worsened,No,"Shortness of breath, Eye irritation",Yes,Yes,No,Use air purifiers at home,Yes,Yes,Often,Industrial pollution
+18-30,Male,Student,3,Remained the Same,No,Coughing,Yes,Yes,No,Wear a mask,Yes,Yes,Sometimes,Vehicle emissions
+18-30,Male,Student,4,Remained the Same,Yes,No health impact,Yes,No,Yes,Wear a mask,Yes,Yes,Never,Industrial pollution
+18-30,Male,Student,1,Worsened,No,"Coughing, Eye irritation",Sometimes,Yes,Yes,Wear a mask,Not Sure,No,Often,Industrial pollution
+18-30,Male,Student,1,Worsened,Sometimes,"Coughing, Shortness of breath, Eye irritation, Fatigue, Asthma or respiratory issues",Yes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Often,Vehicle emissions
+18-30,Male,Student,4,Remained the Same,No,No health impact,Sometimes,No,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Sometimes,Never,Reduced Trees
+18-30,Male,Employed,4,Remained the Same,No,"Coughing, Eye irritation",Yes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Never,Industrial pollution
+18-30,Male,Student,1,Worsened,No,Eye irritation,Sometimes,No,No,Wear a mask,No,No,Never,Vehicle emissions
+18-30,Male,Student,2,Worsened,Sometimes,"Coughing, Eye irritation",Sometimes,No,Yes,Wear a mask,Yes,Sometimes,Rarely,Vehicle emissions
+18-30,Male,Employed,1,Worsened,Sometimes,"Coughing, Shortness of breath, Asthma or respiratory issues, No health impact",Yes,Yes,Yes,"Wear a mask, Avoid outdoor activities",Yes,Yes,Never,Industrial pollution
+18-30,Male,Student,2,Worsened,No,"Coughing, Asthma or respiratory issues",Yes,Yes,No,Wear a mask,Not Sure,No,Never,Vehicle emissions
+18-30,Male,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Asthma or respiratory issues",Yes,No,Yes,"Wear a mask, Avoid outdoor activities",Yes,Sometimes,Sometimes,Waste Burning
+18-30,Male,Student,2,Worsened,No,"Shortness of breath, Eye irritation, Asthma or respiratory issues",Yes,Yes,No,Wear a mask,Yes,Sometimes,Never,Industrial pollution
+18-30,Male,Student,3,Worsened,No,"Coughing, Fatigue",Yes,Yes,Yes,"Wear a mask, Avoid outdoor activities",Yes,Sometimes,Never,Industrial pollution
+18-30,Male,Student,2,Worsened,Not Sure,"Coughing, Eye irritation, Fatigue",Yes,Yes,Yes,"Wear a mask, Use air purifiers at home, Stay indoors, Avoid outdoor activities",Yes,Yes,Often,Vehicle emissions
+18-30,Male,Student,3,Worsened,No,"Coughing, Shortness of breath, Eye irritation",Yes,No,Yes,Wear a mask,Yes,Sometimes,Rarely,Industrial pollution
+18-30,Male,Student,3,Worsened,Sometimes,"Shortness of breath, Eye irritation",Sometimes,No,Yes,"Wear a mask, Use air purifiers at home, Stay indoors, Avoid outdoor activities",Not Sure,Sometimes,Rarely,Vehicle emissions
+18-30,Female,Student,1,Worsened,No,"Coughing, Shortness of breath, Eye irritation",Yes,No,Yes,Wear a mask,Yes,No,Never,Vehicle emissions
+18-30,Male,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Fatigue",Yes,Yes,Yes,Wear a mask,Yes,Yes,Never,Industrial pollution
+18-30,Male,Student,2,Remained the Same,No,"Coughing, Shortness of breath, Eye irritation",Yes,No,Yes,"Stay indoors, Avoid outdoor activities",Yes,Yes,Often,Waste Burning
+31-45,Female,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Asthma or respiratory issues",Sometimes,Yes,Yes,"Wear a mask, Avoid outdoor activities",Not Sure,Yes,Rarely,Waste Burning
+18-30,Male,Student,1,Worsened,No,"Coughing, Eye irritation",Yes,No,Yes,No precautions,No,No,Never,Industrial pollution
+18-30,Male,Student,3,Worsened,No,"Coughing, Fatigue, Asthma or respiratory issues",Yes,Yes,Yes,Wear a mask,Yes,Sometimes,Never,Industrial pollution
+18-30,Male,Student,2,Worsened,No,Shortness of breath,Yes,Yes,Yes,Wear a mask,Yes,Yes,Often,Vehicle emissions
+18-30,Male,Student,2,Worsened,No,Shortness of breath,Yes,Yes,Yes,Wear a mask,Yes,Yes,Always,Industrial pollution
+18-30,Female,Student,1,Worsened,Not Sure,No health impact,No,No,No,Wear a mask,Yes,Sometimes,Never,Vehicle emissions
+18-30,Male,Employed,2,Worsened,No,"Coughing, Eye irritation",Yes,No,Yes,Wear a mask,Not Sure,Sometimes,Sometimes,Construction activities
+18-30,Male,Student,1,Worsened,No,"Coughing, Eye irritation",Yes,Yes,Yes,"Wear a mask, Stay indoors",Yes,Yes,Rarely,Industrial pollution
+18-30,Male,Employed,3,Worsened,Not Sure,"Coughing, Shortness of breath, Eye irritation, Asthma or respiratory issues",Yes,No,Yes,"Wear a mask, Avoid outdoor activities",Yes,No,Rarely,Vehicle emissions
+18-30,Male,Student,3,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Asthma or respiratory issues",Yes,No,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Not Sure,Sometimes,Never,Toxic Pollution
+18-30,Male,Student,1,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Fatigue",Yes,Yes,Yes,"Wear a mask, Use air purifiers at home, Stay indoors, Avoid outdoor activities",Yes,Yes,Rarely,Industrial pollution
+18-30,Male,Student,1,Worsened,No,Coughing,No,No,Yes,No precautions,Yes,No,Never,Vehicle emissions
+18-30,Female,Student,2,Remained the Same,No,"Shortness of breath, Eye irritation",Sometimes,No,No,No precautions,Yes,Sometimes,Never,Vehicle emissions
+18-30,Male,Student,2,Worsened,Sometimes,"Coughing, Shortness of breath, Eye irritation",Yes,No,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Sometimes,Sometimes,Industrial pollution
+18-30,Male,Student,2,Worsened,Not Sure,Coughing,Yes,No,Yes,Wear a mask,Yes,Yes,Sometimes,Waste Burning
+46-60,Male,Employed,3,Worsened,Not Sure,"Coughing, Eye irritation, Fatigue",Yes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Rarely,Waste Burning
+18-30,Female,Unemployed,1,Worsened,No,Coughing,Yes,Yes,Yes,Wear a mask,Yes,Yes,Sometimes,Industrial pollution
+18-30,Male,Student,3,Remained the Same,No,Shortness of breath,No,No,Yes,Use air purifiers at home,No,No,Sometimes,Construction activities
+18-30,Female,Student,3,Worsened,No,"Shortness of breath, Eye irritation",Sometimes,No,Yes,Wear a mask,Yes,Sometimes,Rarely,Industrial pollution
+18-30,Male,Student,4,Worsened,No,"Coughing, Shortness of breath",Yes,No,Yes,Wear a mask,Yes,No,Rarely,Vehicle emissions
+18-30,Male,Student,2,Worsened,Not Sure,"Coughing, Shortness of breath, Eye irritation",Yes,Yes,Yes,"Wear a mask, Stay indoors",Yes,Yes,Sometimes,Industrial pollution
+18-30,Male,Student,5,Remained the Same,No,"Coughing, Shortness of breath, Eye irritation",Yes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Always,Vehicle emissions
+31-45,Female,Unemployed,1,Worsened,No,"Coughing, Asthma or respiratory issues",Yes,Yes,Yes,Wear a mask,Yes,Sometimes,Often,Industrial pollution
+31-45,Male,Employed,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Asthma or respiratory issues",Yes,No,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Often,Vehicle emissions
+18-30,Female,Unemployed,1,Worsened,Not Sure,Coughing,Sometimes,No,No,Wear a mask,Yes,Sometimes,Never,Waste Burning
+Under 18,Female,Student,1,Worsened,No,"Coughing, Shortness of breath, Eye irritation",Yes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Sometimes,Waste Burning
+18-30,Male,Student,1,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Asthma or respiratory issues",Yes,No,No,Stay indoors,Yes,Yes,Sometimes,Industrial pollution
+18-30,Female,Employed,3,Remained the Same,No,Asthma or respiratory issues,Yes,No,No,Avoid outdoor activities,Not Sure,Yes,Never,Waste Burning
+18-30,Male,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation",Yes,Yes,Yes,"Wear a mask, Stay indoors",No,No,Sometimes,Vehicle emissions
+18-30,Male,Student,1,Worsened,No,"Eye irritation, Fatigue, Asthma or respiratory issues",No,Yes,Yes,"Wear a mask, Use air purifiers at home, Stay indoors",Yes,Yes,Often,Industrial pollution
+18-30,Male,Student,3,Improved,Yes,Eye irritation,Yes,No,Yes,Stay indoors,No,Yes,Often,Construction activities
+18-30,Male,Student,2,Worsened,No,No health impact,Yes,No,Yes,Wear a mask,Yes,No,Never,Industrial pollution
+18-30,Male,Student,2,Worsened,No,Eye irritation,Yes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Sometimes,Waste Burning
+18-30,Female,Employed,3,Worsened,Sometimes,Asthma or respiratory issues,Yes,Yes,Yes,Wear a mask,Yes,Yes,Sometimes,Vehicle emissions
+18-30,Female,Student,2,Worsened,No,"Coughing, Eye irritation, Asthma or respiratory issues",Yes,Yes,No,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Sometimes,Waste Burning
+18-30,Male,Unemployed,4,Worsened,Sometimes,"Coughing, Shortness of breath, Asthma or respiratory issues",Yes,No,No,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,No,Rarely,Vehicle emissions
+18-30,Male,Student,5,Improved,No,"Coughing, Shortness of breath, Eye irritation, Fatigue",Yes,Yes,Yes,"Wear a mask, Stay indoors",Yes,Yes,Always,Waste Burning
+18-30,Female,Student,4,Worsened,Sometimes,"Coughing, Asthma or respiratory issues",Yes,No,Yes,"Wear a mask, Stay indoors",Yes,Yes,Never,Waste Burning
+18-30,Male,Student,2,Worsened,Sometimes,Coughing,Yes,Yes,Yes,Stay indoors,Not Sure,Yes,Sometimes,Vehicle emissions
+18-30,Female,Student,3,Worsened,No,Fatigue,Yes,No,Yes,Wear a mask,Not Sure,Yes,Sometimes,Industrial pollution
+18-30,Female,Student,2,Worsened,Not Sure,Coughing,Yes,Yes,Yes,Wear a mask,Yes,Yes,Often,Industrial pollution
+18-30,Female,Unemployed,5,Remained the Same,No,Asthma or respiratory issues,Yes,Yes,Yes,Avoid outdoor activities,Yes,Yes,Sometimes,Industrial pollution
+18-30,Female,Employed,3,Remained the Same,Yes,"Shortness of breath, Eye irritation, Fatigue",Yes,Yes,Yes,"Wear a mask, Use air purifiers at home, Stay indoors, Avoid outdoor activities",Yes,Sometimes,Rarely,Vehicle emissions
+18-30,Male,Employed,1,Worsened,No,"Coughing, Eye irritation",Yes,Yes,Yes,"Wear a mask, Avoid outdoor activities",Not Sure,Yes,Sometimes,Industrial pollution
+18-30,Female,Student,3,Worsened,Not Sure,No health impact,Sometimes,No,No,"Wear a mask, Use air purifiers at home, Stay indoors, Avoid outdoor activities, No precautions",Not Sure,Sometimes,Sometimes,Vehicle emissions
+31-45,Male,Employed,3,Worsened,No,Coughing,Yes,No,No,Wear a mask,Yes,Yes,Sometimes,Vehicle emissions
+18-30,Male,Student,2,Worsened,No,"Coughing, Eye irritation, Fatigue",Yes,No,Yes,Wear a mask,Yes,Yes,Never,Industrial pollution
+18-30,Male,Student,2,Remained the Same,Sometimes,Coughing,Yes,Yes,Yes,"Wear a mask, Avoid outdoor activities",Yes,Yes,Always,Waste Burning
+18-30,Male,Student,3,Worsened,No,Coughing,Yes,Yes,Yes,Stay indoors,No,Yes,Always,Waste Burning
+18-30,Female,Student,3,Remained the Same,Not Sure,Shortness of breath,Sometimes,No,No,Wear a mask,Not Sure,Sometimes,Rarely,Vehicle emissions
+18-30,Female,Student,2,Worsened,No,Eye irritation,Yes,No,Yes,Wear a mask,Yes,Yes,Rarely,Vehicle emissions
+18-30,Female,Unemployed,3,Worsened,No,"Coughing, Shortness of breath, Fatigue",Yes,No,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Sometimes,All Above
+18-30,Male,Student,2,Remained the Same,No,"Coughing, Shortness of breath, No health impact",Yes,No,Yes,No precautions,Not Sure,No,Rarely,Vehicle emissions
+18-30,Male,Student,1,Worsened,Sometimes,"Coughing, Eye irritation, Fatigue",Yes,Yes,Yes,"Wear a mask, Use air purifiers at home, Stay indoors, Avoid outdoor activities",Yes,No,Sometimes,Waste Burning
+18-30,Male,Student,3,Worsened,Not Sure,"Coughing, Shortness of breath, Eye irritation",Sometimes,No,Yes,Wear a mask,Yes,Yes,Often,Industrial pollution
+18-30,Male,Student,3,Worsened,No,Eye irritation,Yes,No,Yes,Wear a mask,Yes,No,Rarely,Industrial pollution
+18-30,Male,Unemployed,1,Remained the Same,No,"Coughing, Eye irritation, Fatigue",Yes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Often,Vehicle emissions
+Under 18,Female,Student,3,Improved,Sometimes,Coughing,Sometimes,Yes,Yes,"Wear a mask, Use air purifiers at home, Stay indoors, Avoid outdoor activities, No precautions",Yes,Yes,Sometimes,Construction activities
+18-30,Female,Unemployed,3,Remained the Same,Not Sure,No health impact,Yes,No,No,Wear a mask,Yes,No,Sometimes,Vehicle emissions
+18-30,Male,Unemployed,1,Worsened,No,"Coughing, Shortness of breath, Eye irritation",Yes,No,Yes,"Wear a mask, Stay indoors",Yes,Yes,Sometimes,Waste Burning
+18-30,Male,Employed,4,Improved,No,No health impact,Sometimes,Yes,Yes,Wear a mask,Yes,Yes,Rarely,Industrial pollution
+18-30,Female,Student,1,Remained the Same,No,Coughing,Yes,No,No,Wear a mask,Yes,Yes,Always,Waste Burning
+18-30,Female,Student,2,Worsened,Sometimes,"Eye irritation, Asthma or respiratory issues",Sometimes,Yes,Yes,"Wear a mask, Avoid outdoor activities",Yes,Yes,Rarely,Industrial pollution
+18-30,Male,Student,1,Worsened,No,Fatigue,Yes,Yes,Yes,Wear a mask,Yes,Sometimes,Often,Vehicle emissions
+18-30,Female,Student,3,Worsened,No,Eye irritation,Sometimes,No,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Sometimes,Sometimes,Industrial pollution
+18-30,Male,Student,2,Worsened,No,No health impact,Yes,No,Yes,"Wear a mask, Stay indoors",Yes,Sometimes,Sometimes,Vehicle emissions
+18-30,Female,Student,4,Remained the Same,Sometimes,"Coughing, Shortness of breath, Eye irritation",No,Yes,Yes,Wear a mask,Not Sure,No,Rarely,Waste Burning
+18-30,Female,Student,2,Improved,Not Sure,"Coughing, Shortness of breath, Eye irritation",Sometimes,Yes,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",No,Yes,Sometimes,Industrial pollution
+31-45,Male,Employed,3,Worsened,No,Fatigue,Yes,Yes,No,Wear a mask,Yes,Sometimes,Rarely,Waste Burning
+18-30,Female,Student,3,Remained the Same,No,No health impact,Sometimes,No,Yes,Avoid outdoor activities,Not Sure,Yes,Sometimes,Vehicle emissions
+18-30,Male,Employed,2,Worsened,No,No health impact,Sometimes,No,Yes,Wear a mask,Not Sure,Sometimes,Sometimes,Industrial pollution
+18-30,Male,Student,4,Worsened,Yes,Eye irritation,Sometimes,Yes,No,Stay indoors,No,No,Often,Industrial pollution
+18-30,Male,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation",No,No,Yes,Wear a mask,Yes,No,Always,Vehicle emissions
+18-30,Female,Unemployed,3,Worsened,No,"Coughing, Shortness of breath",Yes,Yes,No,"Wear a mask, Stay indoors",Yes,Yes,Sometimes,Vehicle emissions
+18-30,Female,Student,1,Worsened,No,"Coughing, Eye irritation",Yes,No,No,Wear a mask,Yes,Yes,Sometimes,
+18-30,Female,Student,3,Worsened,No,No health impact,Yes,No,Yes,Avoid outdoor activities,Yes,Sometimes,Rarely,Industrial pollution
+18-30,Female,Unemployed,3,Worsened,Not Sure,Eye irritation,No,No,No,Wear a mask,No,Sometimes,Often,Vehicle emissions
+18-30,Female,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Asthma or respiratory issues",Yes,Yes,Yes,Wear a mask,Yes,Yes,Sometimes,Industrial pollution
+18-30,Female,Student,3,Remained the Same,No,"Coughing, Eye irritation, Fatigue, Asthma or respiratory issues",Yes,Yes,Yes,"Wear a mask, Stay indoors",Yes,Sometimes,Never,Waste Burning
+18-30,Female,Student,2,Worsened,No,"Coughing, Shortness of breath",Sometimes,No,Yes,"Wear a mask, No precautions",Yes,No,Never,Vehicle emissions
+18-30,Female,Student,3,Remained the Same,No,Coughing,Sometimes,Yes,No,Wear a mask,Yes,Yes,Rarely,Waste Burning
+18-30,Female,Student,2,Worsened,Sometimes,Coughing,Yes,Yes,Yes,"Wear a mask, Stay indoors",Yes,Yes,Often,Vehicle emissions
+18-30,Female,Employed,2,Remained the Same,No,"Coughing, Eye irritation",Yes,Yes,Yes,Wear a mask,Yes,Sometimes,Often,Construction activities
+46-60,Male,Employed,2,Worsened,No,Eye irritation,Yes,No,Yes,Wear a mask,Yes,Sometimes,Never,Industrial pollution
+18-30,Female,Student,4,Worsened,No,Coughing,Sometimes,No,No,Wear a mask,No,No,Never,Vehicle emissions
+18-30,Female,Student,2,Remained the Same,No,"Coughing, Shortness of breath, Eye irritation, Fatigue",Yes,Yes,Yes,Wear a mask,Not Sure,Sometimes,Sometimes,Vehicle emissions
+18-30,Female,Student,4,Worsened,Not Sure,"Coughing, Eye irritation",Sometimes,No,Yes,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Rarely,Industrial pollution
+18-30,Female,Unemployed,3,Worsened,Sometimes,Coughing,Yes,Yes,Yes,Avoid outdoor activities,Not Sure,Yes,Sometimes,Industrial pollution
+18-30,Female,Student,3,Remained the Same,Not Sure,Fatigue,Sometimes,No,No,Wear a mask,Not Sure,No,Rarely,Industrial pollution
+31-45,Female,Unemployed,2,Worsened,No,"Coughing, Shortness of breath, Asthma or respiratory issues",Yes,Yes,Yes,Stay indoors,Yes,Sometimes,Sometimes,Waste Burning
+18-30,Male,Student,3,Worsened,No,"Coughing, Shortness of breath, Asthma or respiratory issues",Yes,Yes,No,"Wear a mask, Stay indoors",Yes,Sometimes,Never,Waste Burning
+31-45,Male,Employed,5,Remained the Same,Yes,No health impact,No,No,Yes,No precautions,Yes,Yes,Often,Vehicle emissions
+18-30,Male,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation",Sometimes,Yes,Yes,"Wear a mask, Avoid outdoor activities",Yes,Yes,Rarely,Construction activities
+18-30,Female,Unemployed,3,Worsened,Sometimes,No health impact,Sometimes,No,No,"Stay indoors, No precautions",Yes,Sometimes,Never,Vehicle emissions
+18-30,Female,Student,2,Worsened,No,"Coughing, Eye irritation",Yes,Yes,No,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Rarely,Vehicle emissions
+18-30,Male,Student,1,Worsened,No,"Coughing, Shortness of breath, Eye irritation",Sometimes,No,Yes,Wear a mask,Yes,No,Often,Vehicle emissions
+18-30,Female,Student,3,Worsened,No,Coughing,Yes,Yes,No,Wear a mask,Not Sure,Yes,Rarely,Industrial pollution
+18-30,Female,Student,2,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Asthma or respiratory issues",Sometimes,No,Yes,Wear a mask,Yes,Sometimes,Never,Industrial pollution
+18-30,Male,Student,3,Improved,Yes,No health impact,Sometimes,No,Yes,"Wear a mask, Use air purifiers at home, Stay indoors, Avoid outdoor activities",Yes,No,Often,Vehicle emissions
+18-30,Male,Student,1,Worsened,No,"Coughing, Shortness of breath, Asthma or respiratory issues",Sometimes,No,Yes,Wear a mask,Yes,No,Sometimes,Vehicle emissions
+18-30,Female,Student,3,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Fatigue, Asthma or respiratory issues",Yes,No,No,"Wear a mask, Stay indoors, Avoid outdoor activities",Yes,Yes,Never,Vehicle emissions
+18-30,Female,Student,1,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Fatigue",Yes,No,No,Wear a mask,Yes,Sometimes,Never,Vehicle emissions
+18-30,Male,Employed,3,Worsened,No,"Coughing, Shortness of breath, Eye irritation, Fatigue",Sometimes,Yes,No,"Wear a mask, Stay indoors",Yes,No,Rarely,Industrial pollution
+18-30,Female,Student,3,Worsened,No,Fatigue,Sometimes,Yes,No,Wear a mask,Yes,Yes,Sometimes,Waste Burning
